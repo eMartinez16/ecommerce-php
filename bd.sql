@@ -125,7 +125,9 @@ CREATE TABLE `productos` (
   `Precio` decimal(10,0) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
-
+-- EXAMPLE PRODUCT
+  -- INSERT INTO productos VALUES (NULL, 'GEFORCE RTX 3080', 'https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080/geforce-rtx-3080-shop-600-p@2x.png',
+  -- 1, 4,674) 
 -- --------------------------------------------------------
 
 --
